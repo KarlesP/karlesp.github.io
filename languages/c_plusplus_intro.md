@@ -51,7 +51,7 @@ std::cout << "Your name is " << fullname ;
 return 0;
 }
 ```
-+ Simple Calculation
+#### Simple Calculation
 ```
 /* Keep in mind that we are declaring the data-type of the variable */
 int num1 = 5;
@@ -59,8 +59,8 @@ int num2 = 6;
 int num3 = num1 * num2;
 ```
 
+#### Conditionals
 
-+ Conditionals
 ```
 int num1 = 5;
 int num2 = 6;
@@ -78,7 +78,9 @@ lse
 cout << “Result is less than 4.”;
 }
 ```
+
 #### Loops
+
 ```
 // While Loop
 int count = 0;
@@ -107,6 +109,7 @@ while(count < 4);
 ```
 
 #### Arrays
+
 ```
 /* Name of our array is "numbers", "2" means that we can store two things in our array and int means that every thing has to be an integer */
 int numbers[2];
@@ -181,7 +184,6 @@ return; // return nothing if someting went wrong
 cout << int1 + int2; // calculation and then print the result
 }
 ```
-
 
 ## Reading material
 [Basic Tutorials from the officiacl C++](http://www.cplusplus.com/doc/tutorial/)
