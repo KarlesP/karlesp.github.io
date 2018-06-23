@@ -75,7 +75,8 @@ while(i <= 10){
   i=i+1
 }
 ```
-Now if you are wandering about R's symbols you should read the following table:
+### Operators
+Now if you are wandering about R's operators you should read the following table:
 
 
 | Logical Operators       | Meaning        |
@@ -174,8 +175,3 @@ aggdata <-aggregate(mtcars, by=list(cyl,vs), FUN=mean, na.rm=TRUE)
 # Print results
 print(aggdata)
 ```
-
-## Studying material
-[A very short Introduction to R](https://cran.r-project.org/doc/contrib/Torfs+Brauer-Short-R-Intro.pdf).
-[R-tutor](http://www.r-tutor.com/r-introduction).
-[Introduction to Data Science with R (video)](https://www.youtube.com/watch?v=32o0DnuRjfg).
