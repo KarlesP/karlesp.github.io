@@ -16,12 +16,14 @@ Note: In C++ every line of code ends with a semi-column ";"
 // Load "iostream" library
 #include <iostream>
 
-/* Start main function, where you basically execution begins and int means that "main" function returns as it closes.
+/* Start main function, where you basically execution 
+begins and int means that "main" function returns as it closes.
 */
 
 int main()
 {
-/*The "<<" characters indicate that you want to send output to the display, "std::cout" means "from library std take the function cout"*/
+/*The "<<" characters indicate that you want to send output to
+the display, "std::cout" means "from library std take the function cout"*/
 std::cout << "Hello World!";
 
 //Return 0 to close the function main()
@@ -37,7 +39,8 @@ return 0;
 #include <iostream>
 int main()
 {
-/* Display (print-out) the "Enter your full name: " and wait for a string */
+/* Display (print-out) the "Enter your full name: " and wait
+for a string */
 // Note: "cout" means "C output something"
 std::cout << "Enter your full name: ";
 std::string fullname;
@@ -53,7 +56,8 @@ return 0;
 ```
 #### Simple Calculation
 ```
-/* Keep in mind that we are declaring the data-type of the variable */
+/* Keep in mind that we are declaring the data-type 
+of the variable */
 int num1 = 5;
 int num2 = 6;
 int num3 = num1 * num2;
@@ -111,7 +115,10 @@ while(count < 4);
 #### Arrays
 
 ```
-/* Name of our array is "numbers", "2" means that we can store two things in our array and int means that every thing has to be an integer */
+/* Name of our array is "numbers", "2" means
+that we can store two things in
+our array and int means that every thing
+has to be an integer */
 int numbers[2];
 
 // Now let's fill these 2 places with "1" and "3"
@@ -125,7 +132,8 @@ for (int count = 0; count < 2; count++)
 numbers [count] = count;
 }
 
-/* Create a structure named "Employee" with different variables */
+/* Create a structure named "Employee" with
+different variables */
 struct Employee
 {
 // Create objects
@@ -147,7 +155,8 @@ emp1.birthyear = 2000;
 employees[0] = emp1;
 // Assign "emp1" as the first object of our array
 employees[0] = emp1;
-/* Print out the object "firstname" from the first object from the array "employees" */
+/* Print out the object "firstname" from the
+first object from the array "employees" */
 cout << employees[0].firstname;
 ``` 
 
@@ -186,8 +195,8 @@ cout << int1 + int2; // calculation and then print the result
 ```
 
 ## Reading material
-[Basic Tutorials from the officiacl C++](http://www.cplusplus.com/doc/tutorial/)
-[Pointers](http://www.cplusplus.com/doc/tutorial/pointers/)
-[C++ examples](https://www.programiz.com/cpp-programming/examples)
-[Snake game with C++](http://cplusplus.happycodings.com/computer-graphics/code24.html)
-[Online C++ Compiler](http://cpp.sh/)
++ [Basic Tutorials from the officiacl C++](http://www.cplusplus.com/doc/tutorial/)
++ [Pointers](http://www.cplusplus.com/doc/tutorial/pointers/)
++ [C++ examples](https://www.programiz.com/cpp-programming/examples)
++ [Snake game with C++](http://cplusplus.happycodings.com/computer-graphics/code24.html)
++ [Online C++ Compiler](http://cpp.sh/)
