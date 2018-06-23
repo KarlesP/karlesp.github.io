@@ -115,8 +115,6 @@ thisdict["apple"] = "red"
 So now that we got all the basics out of the way let's go to some reading material.
 
 ## Reading material
-[Introduction to Python (Codeacademy)](https://www.codecademy.com/learn/learn-python)
-
-[Introduction to Python(W3schools)](https://www.w3schools.com/python/python_intro.asp)
-
-[Python Applications](https://www.python.org/about/apps/)
++ [Introduction to Python (Codeacademy)](https://www.codecademy.com/learn/learn-python)
++ [Introduction to Python(W3schools)](https://www.w3schools.com/python/python_intro.asp)
++ [Python Applications](https://www.python.org/about/apps/)
