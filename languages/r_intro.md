@@ -175,3 +175,7 @@ aggdata <-aggregate(mtcars, by=list(cyl,vs), FUN=mean, na.rm=TRUE)
 # Print results
 print(aggdata)
 ```
+## Reading Material
++ [Introduction to R](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf)
++ [R online IDE](http://rextester.com/l/r_online_compiler)
++ [R bloggers](https://www.r-bloggers.com/)
