@@ -76,6 +76,8 @@ while(i <= 10){
 }
 ```
 Now if you are wandering about R's symbols you should read the following table:
+
+
 | Logical Operators       | Meaning        |
 |:-------------:|:-------------:|
 | ==     | exactly equal to |
