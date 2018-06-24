@@ -53,7 +53,6 @@ First-up the following tutorials are for **educational purposes**, what you do w
 |[Intro](security/intro) | A general introduction on Security Testing |
 |[Pearl](security/pearl_intro)|A quick intro to Pearl |
 |[Kali](security/kali_intro)| A quick intro to Kali's toolset|
-|[Black Arch](security/black_arch_intro)|A quick look at Black Arch OS |
 |[Shellscript](security/shell)|Shell script made easy|
 
 
@@ -73,9 +72,6 @@ In case you are a Science enthusiast, a Math student or you want to be an analys
 
 | Title |Description|
 |:-----|:----------:|
-|[Fortran](sci/fortran_intro)| A quick intro to Fortran|
-|[Matlab](sci/matlab_intro)|A quick intro to Matlab|
-|[Mathematica](sci/mathematica_intro)|Intro and applications of Mathematica|
 |[R spatial](sci/r_spatial)|Example codes of R using spatial data|
 |[R Multivariate](sci/r_multi)|Example codes of R using multivariate data|
 |[QuTiP](sci/qutip_intro)|Example application on Quantum Mechanics with Python|
