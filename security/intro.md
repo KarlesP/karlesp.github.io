@@ -48,3 +48,4 @@ If you want to start right away you should look towards a Linux OS like Kali, Bl
 + [Kalo Linux ebook](https://www.kali.org/download-kali-linux-revealed-book/)
 + [High Performance Browser Network](https://hpbn.co/)
 + [BlackArch Guide](https://blackarch.org/guide.pdf)
++ [Pentest Sources (Github)](https://github.com/enaqx/awesome-pentest)
