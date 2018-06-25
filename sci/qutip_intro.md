@@ -286,4 +286,4 @@ After all that you won't be able to call yourself a Quantum Mechanic but you wil
 + [Fundamental Quantum Mechanics for Engineers](http://www.mie.uth.gr/ekp_yliko/QM_Engineers.pdf)
 + [Quantum Mechanics](http://puccini.chimica.uniba.it/didattica/corsi/solid_state_chem/qm/Quantum_Mechanics_Thankappan.pdf)
 + [Physics Hypertextbook](https://physics.info/)
-+ [QuTiP](http://qutip.org/index.html)
++ [QuTiP main page](http://qutip.org/index.html)
