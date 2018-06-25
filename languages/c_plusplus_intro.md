@@ -3,7 +3,7 @@ layout: page
 title: Intro to C++
 ---
 ## Introduction
-So C++ is a language that covers the applications of C for thank gods I have to do only one tutorial on it and not both C AND C++. Also you will need to remeber that both C and C++ are Object-Oriented, that means both C and C++ work like Python.
+So C++ is a language that covers the applications of C and thank *Gods* I have to do only one tutorial on it and not both C AND C++. Also you will need to remeber that both C and C++ are Object-Oriented, that means both C and C++ work like Python.
 
 If you ever wondered about the applications of C and C++ look at your Operating System (OS). One of the most famous OS, Windows, is written in C and C++. Also MySQL, Mozilla Firefox, Adobe Systems and Gaming engines like Unity are written in that language.
 
@@ -161,7 +161,7 @@ cout << employees[0].firstname;
 ``` 
 
 #### Pointers
-Pointers are values that can be found in our RAM...and yes, at first it makes _Zero sense_ but, bear with me, as I said before, here I will present to you examples because for now it will be the only thing that you will need (also I will have a whole page on Pointers in the reading material because you will have to see examples from an IDE to understand completely what they are and how they work)
+Pointers are values that can be found in our RAM...and yes, at first it makes _zero sense_ but, bear with me, as I said before, here I will present to you examples because for now it will be the only thing that you will need (also I will have a whole page on Pointers in the reading material because you will have to see examples from an IDE to understand completely what they are and how they work)
 
 ```
 int mynumber = 5;
