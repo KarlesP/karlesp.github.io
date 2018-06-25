@@ -21,7 +21,6 @@ When we are talking about people who can exploit a system's vulnerabilities we a
 
 ![Hats](Hackers.png)
 
-
 ## The Basics
 Before you begin your quest to learn pentest you will need to learn 3 things:
 
@@ -32,13 +31,10 @@ Before you begin your quest to learn pentest you will need to learn 3 things:
 If you are having trouble teaching yourself one of them, don't worry you need prac
 
 ## Practice 
-Now that you followed every step here and learned every-single-thing what do you do? The answer is simple; CTF contests or PenTest boxes.
+Now that you followed every step here and learned every-single-thing what do you do? The answer is simple; CTF contests or PenTest labs.
 
 ### CTF
 Starting with CTF (Capture The Flag) contests are competitive games where you can actually hack your way around a system using only a computer and everything that you've learned so far. But to give you a perspective, it is usually a machine that you connect through a safe network, from there you have to use PenTest tools to exploit diffrent security vulnerabilities and find specific series of numbers, which are called "flags", find all of them and you win the contest.
-
-### PenTest boxes
-PenTest boxes are safe, online environments where you can practice your skills.
 
 ## PenTest and programming
 Usually when we are talking about PenTest we're not talking about programming, but you will need to learn how to code in a few languages so you can understand things like how a website works or how a database works. Other than that you will need to learn what Social Engineering is in practice, which is bassically how to con people.
