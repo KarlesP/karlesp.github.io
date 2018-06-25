@@ -51,11 +51,8 @@ First-up the following tutorials are for **educational purposes**, what you do w
 | Title |Description|
 |:-----|:----------:|
 |[Intro](security/intro) | A general introduction on Security Testing |
-|[Perl](security/pearl_intro)|A quick intro to Perl for Pentesters|
 |[Kali](security/kali_intro)| A quick intro to Kali's toolset|
-|[Scripting](security/shell)|Pentesting with scripts made easy|
-
-
+|[Scripting](security/scripts)|Pentesting with scripts made easy|
 
 ### Applications
 #### Proojects with I/O
