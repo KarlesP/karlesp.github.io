@@ -60,7 +60,10 @@ x1<- (-b-d)/(2*a)
 Print(x1,x2)
 End #end algorithm
 ```
-![flow-chart](fc.png)
+
+<div align="center">
+  <img src="fc.png" alt="flow-chart">
+</div>
 
 ## Epilogue 
 We could be talking about algorithms for hours but I have dedicated a whole site to talk on so much more than just algorithms. If you want more I suggest to go in depth with [Khan academy's Introduction to Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) or read Steven Skiena's "The Algorithm Design Manual".
