@@ -20,3 +20,8 @@ When we are using Machine Learning methods we need to remember that we are letti
 
 ## Epilogue
 Machine Learning has a lot of applications and depending on what you want from it you'll have to modify the codes above. But it's an amazing concept and if done correctly can give fast and efficient predictions.
+
+## Reading Material 
++ [Machine Learning Posts (StackExchange)](https://ai.stackexchange.com/questions/tagged/machine-learning)
++ [Machine Learning (Wikipedia)](https://en.wikipedia.org/wiki/Machine_learning)
++ [Machine Learning Books](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)
