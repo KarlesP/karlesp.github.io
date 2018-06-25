@@ -9,7 +9,9 @@ Now, I am no Quantum mechanic but here you can find a sample code for you to run
 ## Introduction:
 The following commands are edited from the Lecture 2B of J R Johansson named "Single Atom Lasing using QuTiP". For more info on the author of the QuTiP module visit [his github](https://github.com/jrjohansson) or [his lectures](http://jrjohansson.github.io/computing.html) which are open for everyone. If you want to know about the problem go [HERE](http://nbviewer.jupyter.org/github/jrjohansson/qutip-lectures/blob/master/Lecture-2B-Single-Atom-Lasing.ipynb)
 
-![Image](Single-Atom-Lasing.png)
+<div align="center">
+  <img src="Single-Atom-Lasing.png" alt="Single Atom Lasing">
+</div>
 
 So, fist up you need to pip install "matplotlib", "numpy" and "qutip" which are the three modules that we will use, if you are using the Spyder IDE, which comes with Anaconda, then even better because you will only need to install "qutip" (that is because Spyder comes with Scipy, see "Python for SCIENCE!" from the index page)
 If you don't know how to install a Python module use the best search engine that you can find and search for it
