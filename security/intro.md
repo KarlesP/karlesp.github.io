@@ -1,4 +1,4 @@
-## Introduction
+## Introduction to Pentesting
 > Note: This file and the following 3 (Pearl, Kali, Shellscript) have been created so I can showcase my knowledge on PenTest. Otherwise they are here **for educational purposes**.
 
 In the recent years Penetration Testing (PenTesting) has seen an increase because of the media and that's not a bad thing. You see PenTesting is what we used to call "Hacking" in the early 90's and 80's. Here I will explain what PenTesting means in practice and share a peace of my mind about it.
