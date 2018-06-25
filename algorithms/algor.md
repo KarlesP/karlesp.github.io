@@ -23,7 +23,9 @@ Pseudocode is something between a programm and a human language. To be more perc
 ## Flow chart
 So a flow chart is a represetation of an algorithm in an image using a specific set of shapes. If that didn't make much sense just remember the following image, we will return to it later.
 
-![flow chart symbols](fcs.jpg)
+<div align="center">
+  <img src="fcs.jpg" alt="flow chart symbols">
+</div>
 
 ## Parts of an algorithm
 An algorithm has **parameters**, **variables**, **functions**, **conditionals** and **loops**.
