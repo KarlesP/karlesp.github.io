@@ -19,7 +19,9 @@ Now if you exclude the last part, everything else is basically *illegal* if you 
 ### ...something about hats
 When we are talking about people who can exploit a system's vulnerabilities we are talking about three categories of people; Whitehats, Greyhats, Blackhats. The simplest way to distinguish one from the other is from the ethics of each individual. If you are using not ethics and use PenTesting tools to steal, damage and duplicate someone else's content you are a Blackhat, if you are using ethics and use the same tools to make the web a safer place by securing any vulnerability that you find you are a Whitehat, if you are using a little bit of both but you aren't as skilled you are a Greyhat, because bassically you are helping without someone's permission.  
 
-<div align="center"><img src ="Hackers.png" alt="Hats" style=img/></div>
+<div align="center">
+  <img src ="Hackers.png" alt="Hats" style=img/>
+</div>
 
 ## The Basics
 Before you begin your quest to learn pentest you will need to learn 3 things:
