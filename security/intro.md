@@ -1,4 +1,4 @@
-## Introduction to Pentesting
+## Introduction
 > Note: This file and the following 3 (Pearl, Kali, Shellscript) have been created so I can showcase my knowledge on PenTest. Otherwise they are here **for educational purposes**.
 
 In the recent years Penetration Testing (PenTesting) has seen an increase because of the media and that's not a bad thing. You see PenTesting is what we used to call "Hacking" in the early 90's and 80's. Here I will explain what PenTesting means in practice and share a peace of my mind about it.
@@ -19,9 +19,8 @@ Now if you exclude the last part, everything else is basically *illegal* if you 
 ### ...something about hats
 When we are talking about people who can exploit a system's vulnerabilities we are talking about three categories of people; Whitehats, Greyhats, Blackhats. The simplest way to distinguish one from the other is from the ethics of each individual. If you are using not ethics and use PenTesting tools to steal, damage and duplicate someone else's content you are a Blackhat, if you are using ethics and use the same tools to make the web a safer place by securing any vulnerability that you find you are a Whitehat, if you are using a little bit of both but you aren't as skilled you are a Greyhat, because bassically you are helping without someone's permission.  
 
-<div align="center">
-  <img src="Hackers.png" alt="Hats">
-</div>
+[logo]: Hackers.png "Hats"
+
 
 ## The Basics
 Before you begin your quest to learn pentest you will need to learn 3 things:
@@ -33,10 +32,13 @@ Before you begin your quest to learn pentest you will need to learn 3 things:
 If you are having trouble teaching yourself one of them, don't worry you need prac
 
 ## Practice 
-Now that you followed every step here and learned every-single-thing what do you do? The answer is simple; CTF contests or PenTest labs.
+Now that you followed every step here and learned every-single-thing what do you do? The answer is simple; CTF contests or PenTest boxes.
 
 ### CTF
 Starting with CTF (Capture The Flag) contests are competitive games where you can actually hack your way around a system using only a computer and everything that you've learned so far. But to give you a perspective, it is usually a machine that you connect through a safe network, from there you have to use PenTest tools to exploit diffrent security vulnerabilities and find specific series of numbers, which are called "flags", find all of them and you win the contest.
+
+### PenTest boxes
+PenTest boxes are safe, online environments where you can practice your skills.
 
 ## PenTest and programming
 Usually when we are talking about PenTest we're not talking about programming, but you will need to learn how to code in a few languages so you can understand things like how a website works or how a database works. Other than that you will need to learn what Social Engineering is in practice, which is bassically how to con people.
@@ -48,4 +50,3 @@ If you want to start right away you should look towards a Linux OS like Kali, Bl
 + [Kalo Linux ebook](https://www.kali.org/download-kali-linux-revealed-book/)
 + [High Performance Browser Network](https://hpbn.co/)
 + [BlackArch Guide](https://blackarch.org/guide.pdf)
-+ [Pentest Sources (Github)](https://github.com/enaqx/awesome-pentest)
