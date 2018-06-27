@@ -15,7 +15,6 @@ Below you'll find some sites that are built with CMS tools:
 | ------------- |:-------------:|
 |[The Official Star Wars Blog](http://www.starwars.com/news) | Wordpress |
 | [University of Colorado](https://www.cu.edu/)|Drupal|
-| [Mike Valenty](http://www.mikevalenty.com/)|Octopress|Ruby |
 |[L'Oreal](https://www.menexpert.de/)|Django CMS|
 |[Linux](Linux.com)|Joomla|
 
