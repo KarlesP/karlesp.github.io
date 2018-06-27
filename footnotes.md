@@ -51,7 +51,7 @@ First-up the following tutorials are for **educational purposes**, what you do w
 | Title |Description|
 |:-----|:----------:|
 |[Intro](security/intro) | A general introduction on Security Testing |
-|[Getting started](security/kali_intro)| A few practical things for your first steps|
+|[Getting started](security/start)| A few practical things for your first steps|
 |[Scripting](security/scripts)|Pentesting with scripts made easy|
 
 ### Applications
