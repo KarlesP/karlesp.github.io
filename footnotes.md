@@ -24,7 +24,7 @@ Here you will find introductions to diffrent Computer Science concepts like Algo
 | [Lambda Calculus](algorithms/lambda)|A really easy Lambda calculus intro |
 
 
-#### Programming Languages
+### Programming Languages
 For programming languages I noted some practical examples and mention some pros and cons as well two reading materials that I found useful. So it's basically **how to write** in that language and *where you can use it*
 
 | Title |Description|
@@ -45,7 +45,7 @@ In the Web development section I mention how to get started and a few resources,
 |[Ruby](web/ruby_intro)|A quick intro to Ruby |
 |[PHP](web/php_intro)|A quick intro to PHP|
 
-#### Pentesting
+### Pentesting
 First-up the following tutorials are for **educational purposes**, what you do with that knowledge that's on you. Now, for pentesting I would suggest to use a VM like Virtual Box from Apache or VM-ware OR of you know how to dual boot I would suggest to use a bootable USB with Kali Linux or Black Arch. Also everything that I show you here should be treated with respect, no matter in what you category of "hat" you think you are (black, grey, white, red) you should respect the art of security testing and puzzle solving.
 
 | Title |Description|
