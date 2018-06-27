@@ -1,8 +1,4 @@
----
-layout: page
-title: Scripting for Pentesters
----
-
+## Introduction
 Before we begin anything let's tecap Pentesting's 5-core steps:
 
 1. Scan a system for vulnerabilities

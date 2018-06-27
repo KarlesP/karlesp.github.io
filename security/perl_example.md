@@ -1,8 +1,7 @@
----
+```
 layout: page
 title: Example Code for Perl
----
-
+```
 ## Example
 ```
 #!/usr/bin/perl -w

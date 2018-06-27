@@ -1,7 +1,7 @@
----
+```
 layout: page
 title: Example Code for Python
----
+```
 
 ## Example
 ```
