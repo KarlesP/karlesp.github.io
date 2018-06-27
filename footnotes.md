@@ -40,10 +40,9 @@ In the Web development section I mention how to get started and a few resources,
 | Title |Description|
 | :-----|:----------:|
 |[Intro](web/intro)|A general introduction on Web Development|
-|[HTML](web/html_intro)|A quick intro to HTML |
-|[Javascript](web/javascript_intro)| A quick intro to JS and some of its libraries|
-|[Ruby](web/ruby_intro)|A quick intro to Ruby |
-|[PHP](web/php_intro)|A quick intro to PHP|
+|[CMS](web/cms_intro)|A quick intro to HTML |
+|[Static page generator](web/spg_intro)| A quick intro to JS and some of its libraries|
+|[Programming languages](web/pl)|A quick intro to Ruby |
 
 ### Pentesting
 First-up the following tutorials are for **educational purposes**, what you do with that knowledge that's on you. Now, for pentesting I would suggest to use a VM like Virtual Box from Apache or VM-ware OR of you know how to dual boot I would suggest to use a bootable USB with Kali Linux or Black Arch. Also everything that I show you here should be treated with respect, no matter in what you category of "hat" you think you are (black, grey, white, red) you should respect the art of security testing and puzzle solving.
