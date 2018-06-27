@@ -54,18 +54,7 @@ First-up the following tutorials are for **educational purposes**, what you do w
 |[Getting started](security/start)| A few practical things for your first steps|
 |[Scripting](security/scripts)|Pentesting with scripts made easy|
 
-### Applications
-#### Proojects with I/O
-Projects using I/O (such as Internet of Things) are useful and creative, so if you want to start your very own Patenda I suggest you start here.
-
-| Title |Description|
-|:-----|:----------:|
-|[Fritzing](projects/fritz) | A quick review on Fritzing with examples|
-|[Python for Raspberry Pi](projects/python_rpi)|Examples of Raspbarry Pi using Python 3|
-|[Arduino I/O for Arduino](projects/arduinoio)|Examples with Arduino and its native language|
-|[C/C++ for Projects](projects/c_rpi)|Example Projects using C/C++|
-
-#### Science and Data analysis
+### Science and Data analysis
 In case you are a Science enthusiast, a Math student or you want to be an analyst this is the place to start.
 
 | Title |Description|
