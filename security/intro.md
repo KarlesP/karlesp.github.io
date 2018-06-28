@@ -1,3 +1,8 @@
+---
+layout: page
+title: Intro to Penetration Testing
+---
+
 ## Introduction
 > Note: This file and the following 3 (Pearl, Kali, Shellscript) have been created so I can showcase my knowledge on PenTest. Otherwise they are here **for educational purposes**.
 
