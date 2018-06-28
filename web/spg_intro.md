@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Web Development using Static Site Generators
+title: Web Development using Static Page Generators
 ---
 ## Introduction
 A static site generator (SSG) is a compromise between using a hand-coded static site and a full CMS. You generate an HTML-only website using raw data (such as Markdown files) and templates. The resulting build is transferred to your live server.
