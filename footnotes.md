@@ -3,7 +3,7 @@ layout: page
 title: Footnotes (Dev)
 ---
 
-> Note: This site is under development and **SOME** links are not working __YET__! 
+> Note: This site is under development
 
 ## Prologue
 Hi! If you are new here you will be glad to know that this site, yes this one, is a place where **you** can learn diffrent programming languages with a few easy steps, depending on the language, but **BE WARNED** this is not an _ordinary site_ where we are explaining in depth the DOs and DONTs of every single language and we don't use so much terminology (explanations are more practical and terminology will be used only if it is absolutley necessary).
