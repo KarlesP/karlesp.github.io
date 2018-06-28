@@ -1,3 +1,8 @@
+---
+layout: page
+title: Pentesting with Scripts
+---
+
 ## Introduction
 Before we begin anything let's tecap Pentesting's 5-core steps:
 
