@@ -51,3 +51,4 @@ social:
 markdown: kramdown
 #sass:
 #  style: compressed
+include: [".well-known"]
