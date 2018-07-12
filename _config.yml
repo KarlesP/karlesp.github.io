@@ -1,5 +1,6 @@
 # Welcome to Jekyll!
 #
+include: [".well-known"]
 
 # Site settings
 title: "Panagiotis Karles"
@@ -51,4 +52,3 @@ social:
 markdown: kramdown
 #sass:
 #  style: compressed
-include: [".well-known"]
